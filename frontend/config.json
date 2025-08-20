@@ -1,0 +1,7 @@
+{
+  "min_contour_area": 500,
+  "flask_url": "http://localhost:5000/process",
+  "confidence_threshold": 0.5,
+  "model_path": "yolov8n.pt",
+  "confidence": 0.6212857142857143
+}
